@@ -22,3 +22,9 @@ Options:
 ```
 
 This will work for amd64 as well, just use s/arm64/x64/ for the above.
+
+
+
+
+### Latest with daisy
+https://git.sr.ht/~dch/cacao/commit/e3397d8f#assets/css/app.css
